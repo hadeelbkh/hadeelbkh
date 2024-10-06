@@ -40,7 +40,7 @@ I am a passionate CSE student at AAUP Jenin, driven by a curiosity for technolog
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](www.linkedin.com/in/hadeel-bkhaitan)
-- Follow me on Medium - I'm coming very soon! [medium.com](https://medium.com/@hadeel.b14)
+- Follow me on [Medium](https://medium.com/@hadeel.b14)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
