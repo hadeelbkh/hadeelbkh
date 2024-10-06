@@ -15,7 +15,7 @@ I am a passionate CSE student at AAUP Jenin, driven by a curiosity for technolog
 <!--- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.-->
 
 ## My Articles
-- Coming out very soon 😊.
+- [Mastering Image Classification: Creating a Flower Classifier with MobileNetV2 and TensorFlow](https://medium.com/@hadeelbkh/mastering-image-classification-creating-a-flower-classifier-with-mobilenetv2-and-tensorflow-a39f8b5edbf9)
 
 
 ## Tech Stack
