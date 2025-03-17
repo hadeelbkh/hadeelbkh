@@ -32,9 +32,10 @@ I am a passionate CSE student at AAUP Jenin, driven by a curiosity for technolog
 
  ## 🏆 Achievements
 
+- 🌟 Completed the "Intro to Machine Learning with TensorFlow" Nanodegree from Udaicty - Applied supervised learning techniques to model individuals' income using Census data. Also, applied unsupervised learning techniques to identify customer segments for a mail-order sales company.
 - 🌟 Completed my QA internship with ITG Software Inc. 
-- 🌟 Completed AI Programming with Python and TensorFlow Nanodegree from Udacity - Developed a flower image classifier and deployed it as a command-line application.
-- 🌟 Completed Gemini API by Google course through Udacity - Created a RAG system using OCR to extract text from images. It searches through files and summarizes information.
+- 🌟 Completed the "AI Programming with Python and TensorFlow" Nanodegree from Udacity - Developed a flower image classifier and deployed it as a command-line application.
+- 🌟 Completed the "Gemini API by Google" course through Udacity - Created a RAG system using OCR to extract text from images. It searches through files and summarizes information.
   
 
 ## 📬 Get in Touch
