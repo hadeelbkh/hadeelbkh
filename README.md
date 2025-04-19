@@ -4,8 +4,6 @@ I am a passionate CSE student at AAUP Jenin, driven by a curiosity for technolog
 
 ![hadeelbkh's Stats](https://github-readme-stats.vercel.app/api?username=hadeelbkh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-// ![hadeelbkh's Stats](https://github-readme-stats.vercel.app/api?username=hadeelbkh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Engineering at AAUP Jenin.
