@@ -14,6 +14,16 @@
 | 🔤 Arabic NLP | Intent extraction and routing, diacritics and pronunciation quality |
 | 👥 Mentorship | Led and mentored 6 junior engineers on voice cloning, data pipelines, and fine-tuning |
 
+## 🌍 Open-Source Contributions
+
+**[NVIDIA NeMo Speech](https://github.com/NVIDIA-NeMo/Speech)**: Magpie TTS
+
+| | Contribution |
+|---|---|
+| [#16599](https://github.com/NVIDIA-NeMo/Speech/pull/16599) | **Arabic-English code-switching** for Magpie TTS: English words inside Arabic sentences go to the English tokenizer, Arabic words to the Arabic one. English words said correctly went from **0% to 91%** on 150 test clips, with no retraining and no model changes |
+| [#16591](https://github.com/NVIDIA-NeMo/Speech/pull/16591) | **Tokenizer fix**: Arabic, Hindi, Italian, Vietnamese and Portuguese were silently falling back to the English tokenizer with the latest Magpie TTS checkpoint |
+| [#16592](https://github.com/NVIDIA-NeMo/Speech/issues/16592) | **Issue**: reported and measured English words in Arabic sentences being dropped or hallucinated |
+
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,fastapi,linux,git,java,cpp,js)](https://skillicons.dev)
@@ -50,5 +60,3 @@
 | Medium | [@hadeel.b14](https://medium.com/@hadeel.b14) |
 
 Always happy to talk about Arabic speech, TTS, and voice AI. 🚀
-
-
