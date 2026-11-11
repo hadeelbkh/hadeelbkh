@@ -9,7 +9,7 @@
 | Area | What I work on |
 |---|---|
 | 🗣️ Arabic TTS | Multi-dialect voices (9 Arabic dialects + Indian-accented English), built end to end: data collection/generation, cleaning, fine-tuning, serving, evaluation |
-| ⚙️ Inference & serving | Fine-tuned VoxCPM2 models served through a custom inference engine with hot-swappable LoRA adapters |
+| ⚙️ Inference & serving | Fine-tuned TTS models served through a custom inference engine with hot-swappable LoRA adapters |
 | 🤖 Voice agents | Deployed for banking, healthcare, education, telecom, and airports |
 | 🔤 Arabic NLP | Intent extraction and routing, diacritics and pronunciation quality |
 | 👥 Mentorship | Led and mentored 6 junior engineers on voice cloning, data pipelines, and fine-tuning |
