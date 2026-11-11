@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer** focused on **Arabic speech and NLP**. I build multi-dialect Arabic text-to-speech systems and voice agents, from data and fine-tuning to serving and evaluation. Computer Engineering graduate of the Arab American University, based in Palestine 🇵🇸.
 
-![hadeelbkh's Stats](https://github-readme-stats.vercel.app/api?username=hadeelbkh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hadeelbkh&theme=vue-dark&hide_border=true)
 
 ## 🚀 What I Do
 
